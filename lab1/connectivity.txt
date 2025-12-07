@@ -1,0 +1,58 @@
+Q
+see wireless network
+Q
+works security off
+A
+password or verification selected incorrect
+Q
+works on ethernet port
+Q
+default settings on router
+Q
+intermittent connection
+Q
+phone, bluetooth interfere
+A
+try other location for laptop, limiting your own use of possible interfence sources
+A
+possible ISP problem or software time-out. More likely router or laptop hardware, or weather/wind influence on incoming land line
+Q
+all 802.11g
+Q
+laptop works public network
+A
+check router defaults set, no security or MAC addressing, reboot router. Continued problem indicate wirless router failure or incompatibility
+A
+laptop wireless adapter fault or OS software settings. Try latest driver, software rescue
+A
+try compatibility modes, but be prepared to update older 802.11b hardware
+A
+restore router defaults through direct IP connection. If connection not fixed after rebooting, continue from one back
+Q
+firewall security blocked
+A
+try default settings, then look for specific exclusions for network
+Q
+live internet router
+A
+if router link good, settings or laptop software issue
+A
+even if internet LED lit, try power down router reset. If link LED never active, router or ISP network problem
+Q
+switch on, enabled
+Q
+router active in range
+Q
+home network
+Q
+see know good network
+A
+reset home router to defaults. Possible router failure or incompatibility
+A
+reinstall driver, toggle hardware, fuul reboot if not done. Possible wireless adapter failure, but more often software. Try 3rd party soft fix
+A
+corporate networks may be hidden, see admin for settings
+A
+get router wireless activity LED blinking, try laptop in same room
+A
+don't be embarassed, switch can be turned off is normal handling

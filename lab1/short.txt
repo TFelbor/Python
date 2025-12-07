@@ -1,0 +1,26 @@
+Q
+Is it an animal
+Q
+Does it hop
+Q
+does it live in Australia
+A
+kangaroo
+A
+frog
+Q
+does it meow
+A
+cat
+Q
+does it live inside water
+A
+fish
+A
+dog
+Q
+does it have wheels
+A
+bicycle
+A
+computer

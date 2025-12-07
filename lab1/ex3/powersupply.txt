@@ -1,0 +1,78 @@
+Q
+power comes on
+Q
+live screen
+Q
+new build
+A
+check power requirement versus rating
+Q
+boot on second try
+A
+premature power_ok signal. Try different power supply
+Q
+hear any beeps
+A
+proceed to motherboard failure test
+Q
+new hardware installed
+A
+remove latest addition and retry
+Q
+hard drive spin up
+Q
+bad adapter on bus
+A
+strip system down to video adapter only
+Q
+powers motherboard on bench
+A
+either you have a short circuit in the case or a geometry problem placing an unacceptable stress on the motherboard. It's also possible that the video adapter was never sealed due to the bracket position
+A
+replace power supply
+Q
+spin up on other lead
+A
+defective power supply lead or connector
+A
+try drive is test PC
+A
+proceed to video failure chart
+Q
+good AC power source
+Q
+is 110/220V set
+Q
+installed motherboard lead
+Q
+power switch fail
+A
+replace switch or substitute front panel reset switch, if available
+Q
+power supply connections to motheboard correct
+Q
+hard drive spin up
+Q
+bad adapter on bus
+A
+strip system down to video adapter only
+Q
+powers motherboard on bench
+A
+either you have a short circuit in the case or a geometry problem placing an unacceptable stress on the motherboard
+A
+replace power supply
+Q
+spin up on other lead
+A
+defective power supply lead or connector
+A
+try drive is test PC
+A
+remake motherboard power supply connections
+A
+check manual and motherboard silkscreen. Connect lead from front panel switch
+A
+select proper voltage on rear of power supply
+A
+use live outlet
